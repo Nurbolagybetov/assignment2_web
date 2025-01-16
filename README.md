@@ -106,7 +106,7 @@ This project is a weather application that provides real-time weather data, time
 
 1. **Weather Display and Map**
    - Screenshot showing the weather data, map, and timezone information.
-![Map](map.png)
+![Info](info.png)
 2. **Dynamic Background**
    - Screenshot illustrating the dynamic background fetched from Unsplash.
 ![Overall page with background](overall.png)
